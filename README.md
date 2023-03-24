@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verrochi92
-- 👀 I’m interested in web and mobile apps, embedded systems and database programming
-- 🌱 I’m currently learning Javascript and C#
+- 👀 I’m interested in web apps, mobile apps, and database programming
+- 🌱 I’m currently learning Javascript and some more Python
 - 💞️ I’m looking to collaborate on any cool ideas that come my way
 - 📫 How to reach me: https://www.linkedin.com/in/nverrochi or you can email me at verrochi92@gmail.com
 
